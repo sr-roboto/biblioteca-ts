@@ -7,7 +7,7 @@ clase cumple con las condiciones que le da un contrato en este caso una
 interface, luego la palabra extends tiene varios usos se puede utilizar como
 restriccion o limitar el ambito de un tipo, pero mayormente utilizada para
 indicar que una clase hereda los atributos y metodos de otra, es decir que la
-clas1 EXTIENDE a la clase2 heradando asi sus propiedades
+clas1 EXTIENDE a la clase2 heradando asi sus propiedades y metodos
 
 ## ¿Qué ventajas ofrece el tipado fuerte en funciones y clases?
 
